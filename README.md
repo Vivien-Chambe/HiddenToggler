@@ -2,7 +2,7 @@ This is an extension to automatically display elements hidden with `visibility:h
 
 
 # Install 
-git clone https://github.com/Vivien-Chambe/HiddenToggler.git
+`git clone https://github.com/Vivien-Chambe/HiddenToggler.git`
 
 Go to chrome://extensions 
 Enable Developer Mode 
