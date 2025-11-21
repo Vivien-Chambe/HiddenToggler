@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Visibility Hidden Toggler",
+  "version": "1.0",
+  "description": "Afficher / masquer les éléments visibility:hidden sur la page.",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Toggle hidden elements panel"
+  }
+}
+
